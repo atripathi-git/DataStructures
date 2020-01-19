@@ -1,0 +1,5 @@
+/Users/ankit/Projects/DataStructures/DataStructures/bin/Debug/DataStructures.exe
+/Users/ankit/Projects/DataStructures/DataStructures/bin/Debug/DataStructures.pdb
+/Users/ankit/Projects/DataStructures/DataStructures/obj/Debug/DataStructures.csprojAssemblyReference.cache
+/Users/ankit/Projects/DataStructures/DataStructures/obj/Debug/DataStructures.exe
+/Users/ankit/Projects/DataStructures/DataStructures/obj/Debug/DataStructures.pdb
