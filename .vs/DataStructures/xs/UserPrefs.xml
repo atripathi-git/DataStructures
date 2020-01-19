@@ -1,5 +1,8 @@
 ﻿<Properties StartupConfiguration="{C30CE81E-83D1-4C1C-AC7B-3BE33C013779}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataStructures/StringAndArrays/IsPalindromePermuation.cs">
+    <Files>
+      <File FileName="DataStructures/StringAndArrays/IsPalindromePermuation.cs" Line="14" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">

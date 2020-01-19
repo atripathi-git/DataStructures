@@ -3,6 +3,9 @@ using System.Text;
 
 namespace DataStructures.StringAndArrays
 {
+    /// <summary>
+    /// Palindrome using bit vector
+    /// </summary>
     public class IsPalindromePermuation
     {
         public IsPalindromePermuation()
