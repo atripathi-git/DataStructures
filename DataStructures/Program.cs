@@ -1,4 +1,5 @@
 ﻿using System;
+using DataStructures.StringAndArrays;
 
 namespace DataStructures
 {
@@ -6,7 +7,7 @@ namespace DataStructures
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            IsPalindromePermuation p = new IsPalindromePermuation();
         }
     }
 }

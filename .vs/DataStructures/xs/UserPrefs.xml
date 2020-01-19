@@ -1,15 +1,12 @@
 ﻿<Properties StartupConfiguration="{C30CE81E-83D1-4C1C-AC7B-3BE33C013779}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="DataStructures/StringAndArrays/IsUnique.cs">
-    <Files>
-      <File FileName="DataStructures/StringAndArrays/IsUnique.cs" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DataStructures" expanded="True">
             <Node name="DataStructures" expanded="True">
               <Node name="StringAndArrays" expanded="True">
-                <Node name="IsUnique.cs" selected="True" />
+                <Node name="IsPalindromePermuation.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -21,7 +18,9 @@
   <MonoDevelop.Ide.ItemProperties.DataStructures PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/ankit/Projects/DataStructures/DataStructures/rqlnh1vp.0mn~" relfile="DataStructures/rqlnh1vp.0mn~" line="7" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
